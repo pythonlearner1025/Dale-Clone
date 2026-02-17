@@ -4,6 +4,10 @@ dist
 .wrangler
 .dev.vars
 .prod.vars
+.blitz-bundle-id
+.blitz/project.json
+.blitz/metro.json
+.claude/hooks/.last-stop-hook-ts
 
 /.pnp
 .pnp.js

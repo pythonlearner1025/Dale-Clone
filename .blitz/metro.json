@@ -1,7 +1,0 @@
-{
-  "port": 49753,
-  "bundleUrl": "http://192.168.1.40:49753/index.bundle?platform=ios&dev=true&minify=false",
-  "hmrUrl": "ws://192.168.1.40:49753/hot",
-  "localIP": "192.168.1.40",
-  "startTime": 1771315651209
-}

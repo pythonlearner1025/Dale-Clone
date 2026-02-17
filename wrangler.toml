@@ -2,7 +2,7 @@
 name = "sample-app"
 main = "./src-backend/worker.ts"
 compatibility_date = "2024-09-25"
-account_id = "3c4cf55a12810e878be2349f1411ca08"
+account_id = "YOUR_CLOUDFLARE_ACCOUNT_ID"
 compatibility_flags = [ "nodejs_compat" ]
 
 routes = [
@@ -60,7 +60,7 @@ preview_bucket_name = "teeny-sample-primary-bucket"
 # Bind an Analytics Engine dataset. Use Analytics Engine to write analytics within your Pages Function.
 # Docs: https://developers.cloudflare.com/workers/wrangler/configuration/#analytics-engine-datasets
 # [[analytics_engine_datasets]]
-# binding = "MY_DATASET"
+# binding = "MY_DATAq"
 
 # Bind a headless browser instance running on Cloudflare's global network.
 # Docs: https://developers.cloudflare.com/workers/wrangler/configuration/#browser-rendering
