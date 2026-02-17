@@ -5,7 +5,7 @@ A minimalist year-in-progress tracker and event countdown app. Visualize the pas
 Built with React Native, Vite, and Cloudflare Workers.
 
 <p align="center">
-  <img src="screenshots/demo.gif" width="300" />
+  <img src="screenshots/demo.gif" width="600" />
 </p>
 
 <p align="center">
