@@ -5,7 +5,7 @@ A minimalist year-in-progress tracker and event countdown app. Visualize the pas
 Built with React Native, Vite, and Cloudflare Workers.
 
 <p align="center">
-  <video src="https://github.com/pythonlearner1025/Dale-Clone/releases/download/v0.1.0/demo.mp4" autoplay loop muted playsinline width="300"></video>
+  <img src="screenshots/demo.gif" width="300" />
 </p>
 
 <p align="center">
