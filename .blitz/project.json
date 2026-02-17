@@ -1,0 +1,16 @@
+{
+  "id": "Retrofitter",
+  "uuid": "bb9b45a1-3340-4840-8fcd-cbf3de49391e",
+  "name": "Retrofitter",
+  "cwd": "/Users/minjunes/.blitz/projects/Retrofitter",
+  "bundleId": "dev.blitz.mac.warm",
+  "createdAt": "2026-02-17T08:07:06.471Z",
+  "updatedAt": "2026-02-17T08:07:35.848Z",
+  "color": {
+    "r": 140,
+    "g": 140,
+    "b": 140
+  },
+  "simulatorUdid": "494A7F3A-C3AC-46A9-9DED-162803BBF35D",
+  "lastOpenedAt": "2026-02-17T08:07:35.846Z"
+}
