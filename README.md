@@ -5,10 +5,6 @@ A minimalist year-in-progress tracker and event countdown app. Visualize the pas
 Built with React Native, Vite, and Cloudflare Workers.
 
 <p align="center">
-  <img src="https://github.com/pythonlearner1025/Dale-Clone/raw/master/screenshots/demo.mp4" width="600" />
-</p>
-
-<p align="center">
   <img src="screenshots/year-dark.png" width="250" />
   <img src="screenshots/events-dark.png" width="250" />
   <img src="screenshots/add-event-dark.png" width="250" />
